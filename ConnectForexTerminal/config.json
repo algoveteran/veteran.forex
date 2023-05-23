@@ -1,0 +1,12 @@
+{
+  "server": [
+    {
+      "server_name": "AdmiralMarkets-Demo",
+      "server_doman": "",
+      "server_ips": [ "51.89.158.138" ],
+      "account": 1111111,
+      "password": "XXXXXXXX"
+    }
+  ]
+}
+
